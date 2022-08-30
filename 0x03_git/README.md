@@ -1,1 +1,1 @@
-my first repository
+Creating a directory
